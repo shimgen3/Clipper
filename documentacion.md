@@ -56,6 +56,8 @@ cd tu-repositorio
 ## 3. Uso
 A continuacion se muestran ejemplos de usos basicos de clipper 
 
+Para aprender a más profundidad aspectos especificos del codigo ir a [Clipper](https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s)/Basic_Language_Tutorial)
+
 1. Hello World en Clipper:
 ```Bash
 PROCEDURE Main
