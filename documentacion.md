@@ -10,9 +10,27 @@
 6. [Contribución](#6-contribución)
 7. [Licencia](#7-licencia)
 
-## 1. Introducción
+## 1. Introducción ¿Cómo funciona Clipper?
 
-Breve introducción al proyecto, propósito y contexto. 
+¿Cómo funciona Clipper?
+1. Lenguaje de Programación:
+Clipper es un lenguaje de programación procedural diseñado principalmente para el desarrollo de aplicaciones de bases de datos.
+Se utiliza para crear aplicaciones de software que interactúan con bases de datos de xBase, como dBASE o FoxPro.
+
+2. Características Principales:
+Procedural: Clipper sigue un enfoque procedural en la programación, similar a otros lenguajes de esa época.
+Manejo de Bases de Datos: Es conocido por su capacidad para interactuar con bases de datos de forma eficiente.
+Sintaxis Simple: La sintaxis de Clipper es relativamente simple y directa.
+
+3. Desarrollo de Aplicaciones:
+En Clipper, desarrollas aplicaciones mediante la creación de programas que interactúan con bases de datos y realizan operaciones específicas.
+
+4. Estructura de Programas:
+Los programas en Clipper consisten en módulos que contienen código fuente. Estos módulos pueden incluir funciones, procedimientos y llamadas a otras partes del programa.
+
+5. Bibliotecas y Compilación:
+Clipper utiliza bibliotecas de funciones que puedes incluir en tus programas para facilitar tareas comunes.
+Los programas Clipper se compilan antes de ejecutarse, y el código fuente se transforma en un formato ejecutable.
 
 ## 2. Instalación
 
