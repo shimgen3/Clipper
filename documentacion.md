@@ -5,10 +5,8 @@
 1. [Introducción](#1-introducción)
 2. [Instalación](#2-instalación)
 3. [Uso](#3-Uso)
-4. [Uso](#4-uso)
-5. [Ejemplos](#5-ejemplos)
-6. [Contribución](#6-contribución)
-7. [Licencia](#7-licencia)
+4. [Estructura](#4-Estructura del Proyecto)
+
 
 ## 1. Introducción ¿Cómo funciona Clipper?
 
@@ -116,4 +114,36 @@ PROCEDURE Main
 
 ```
 
-## 4.
+## 4. Estructura del Proyecto
+
+### /src
+- **main.prg:** Archivo principal que contiene la lógica principal del programa.
+- **utilidades.prg:** Módulo que contiene funciones y procedimientos de utilidad utilizados en todo el proyecto.
+
+### /formularios
+- **cliente.prg:** Formulario para la gestión de clientes.
+- **producto.prg:** Formulario para la gestión de productos.
+- **pedido.prg:** Formulario para la gestión de pedidos.
+
+### /reportes
+- **reporte_cliente.prg:** Código para generar un informe de clientes.
+- **reporte_producto.prg:** Código para generar un informe de productos.
+- **reporte_pedido.prg:** Código para generar un informe de pedidos.
+
+### /datos
+- **configuracion.dbf:** Archivo de configuración con datos específicos del programa.
+- **clientes.dbf:** Base de datos de clientes.
+- **productos.dbf:** Base de datos de productos.
+- **pedidos.dbf:** Base de datos de pedidos.
+
+### /librerias
+- **funciones.prg:** Biblioteca de funciones genéricas utilizadas en todo el proyecto.
+- **validaciones.prg:** Biblioteca con funciones de validación.
+
+### /tests
+- **test_cliente.prg:** Archivo para pruebas específicas del formulario de clientes.
+- **test_reportes.prg:** Archivo para pruebas de los módulos de generación de informes.
+
+### /documentacion
+- **manual_usuario.txt:** Documentación para los usuarios finales.
+- **manual_desarrollador.txt:** Documentación para los desarrolladores.
