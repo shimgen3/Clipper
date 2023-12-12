@@ -114,7 +114,7 @@ PROCEDURE Main
 
 ```
 
-## 4. Estructura del Programa
+## 4. Estructura
 
 ### /src
 - **main.prg:** Archivo principal que contiene la lógica principal del programa.
