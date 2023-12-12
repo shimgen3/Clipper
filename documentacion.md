@@ -18,9 +18,9 @@ Breve introducción al proyecto, propósito y contexto.
 
 Para visualizar los archivos, editarlos y compilarlos es necesario instalar una extencion para VSCode llamada Harbour and xHarbour
 
-![Alt text](files/image.png)
+![Harbour and xHarbour](files/image.png)
 
-
+Para aprender más sobre como usar la extención de Harbour ir a [Harbour and xHarbour](https://medium.com/harbour-magazine/visual-studio-code-para-harbour-85b0646ff312)
 
 ```bash
 # Ejemplo de comandos de instalación
