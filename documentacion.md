@@ -5,7 +5,7 @@
 1. [Introducción](#1-introducción)
 2. [Instalación](#2-instalación)
 3. [Uso](#3-Uso)
-4. [Estructura](#4-Estructura del Programa)
+4. [Estructura](#4-Estructura)
 
 
 ## 1. Introducción ¿Cómo funciona Clipper?
