@@ -54,7 +54,7 @@ cd tu-repositorio
 # Comandos adicionales de instalación si es necesario
 ```
 ## 3. Uso
-A continuacion se muestran ejemplos de usos basicos en clipper 
+A continuacion se muestran ejemplos de usos basicos de clipper 
 
 1. Hello World en Clipper:
 ```Bash
@@ -75,8 +75,43 @@ PROCEDURE Main
 
    RETURN
 ```
+3. Bucle While:
+```Bash
+PROCEDURE Main
+   LOCAL nContador := 1
 
+   DO WHILE nContador <= 5
+      ? "Iteración ", nContador
+      nContador++
+   ENDDO
 
+   RETURN
+```
+4. Conexión a una Base de Datos:
+```Bash
+PROCEDURE Main
+   LOCAL cDBF := "miarchivo.dbf"
+   DBUSEAREA(cDBF, .T.)
 
+   ? "Registros en la base de datos: ", DBRECORDS()
+
+   DBCLOSEAREA()
+   RETURN
+
+```
+5. Interacción con el Usuario:
+```Bash
+PROCEDURE Main
+   LOCAL cNombre
+
+   ? "Ingrese su nombre: "
+   @ 5, 10 GET cNombre PROMPT "Nombre: "
+
+   ? "Hola, ", cNombre, "!"
+   WAIT "Presione una tecla para salir..."
+
+   RETURN
+
+```
 
 ## 4.
