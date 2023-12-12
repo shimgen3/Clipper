@@ -45,7 +45,7 @@ Para visualizar los archivos, editarlos y compilarlos es necesario instalar una 
 
 ![Harbour and xHarbour](files/image.png)
 
-Para aprender más sobre como usar la extención de Harbour ir a [Harbour and xHarbour](https://medium.com/harbour-magazine/visual-studio-code-para-harbour-85b0646ff312)
+Para aprender más sobre como usar la extención de Harbour ir a [Documentación Extención Harbour and xHarbour](https://medium.com/harbour-magazine/visual-studio-code-para-harbour-85b0646ff312)
 
 ```bash
 # Ejemplo de comandos de instalación
@@ -56,7 +56,7 @@ cd tu-repositorio
 ## 3. Uso
 A continuacion se muestran ejemplos de usos basicos de clipper 
 
-Para aprender a más profundidad aspectos especificos del codigo ir a [Clipper](https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s)/Basic_Language_Tutorial)
+Para aprender a más profundidad aspectos especificos del codigo ir a [Documentación Clipper](https://en.wikibooks.org/wiki/Clipper_Tutorial:_a_Guide_to_Open_Source_Clipper(s)/Basic_Language_Tutorial)
 
 1. Hello World en Clipper:
 ```Bash
