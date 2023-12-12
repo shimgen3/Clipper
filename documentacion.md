@@ -4,7 +4,7 @@
 
 1. [Introducción](#1-introducción)
 2. [Instalación](#2-instalación)
-3. [Configuración](#3-configuración)
+3. [Uso](#3-Uso)
 4. [Uso](#4-uso)
 5. [Ejemplos](#5-ejemplos)
 6. [Contribución](#6-contribución)
@@ -52,3 +52,31 @@ Para aprender más sobre como usar la extención de Harbour ir a [Harbour and xH
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
 # Comandos adicionales de instalación si es necesario
+```
+## 3. Uso
+A continuacion se muestran ejemplos de usos basicos en clipper 
+
+1. Hello World en Clipper:
+```Bash
+PROCEDURE Main
+   ? "Hello, World!"
+   RETURN
+```
+2. Declaración de Variables y Estructura de Control:
+```Bash
+PROCEDURE Main
+   LOCAL nNumero := 5
+
+   IF nNumero > 0
+      ? "El número es positivo."
+   ELSE
+      ? "El número es cero o negativo."
+   ENDIF
+
+   RETURN
+```
+
+
+
+
+## 4.
