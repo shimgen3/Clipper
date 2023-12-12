@@ -18,7 +18,7 @@ Breve introducción al proyecto, propósito y contexto.
 
 Para visualizar los archivos, editarlos y compilarlos es necesario instalar una extencion para VSCode llamada Harbour and xHarbour
 
-![Alt text](files\image.png)
+![Alt text](\files\image.png)
 
 
 
