@@ -16,7 +16,11 @@ Breve introducción al proyecto, propósito y contexto.
 
 ## 2. Instalación
 
-Instrucciones detalladas sobre cómo instalar el entorno necesario y el programa en sí.
+Para visualizar los archivos, editarlos y compilarlos es necesario instalar una extencion para VSCode llamada Harbour and xHarbour
+
+![Alt text](files\image.png)
+
+
 
 ```bash
 # Ejemplo de comandos de instalación
