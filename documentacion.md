@@ -1,4 +1,4 @@
-# Documentación del Proyecto
+# Introducción a Clipper
 
 ## Índice
 
@@ -45,12 +45,7 @@ Para visualizar los archivos, editarlos y compilarlos es necesario instalar una 
 
 Para aprender más sobre como usar la extención de Harbour ir a [Documentación Extención Harbour and xHarbour](https://medium.com/harbour-magazine/visual-studio-code-para-harbour-85b0646ff312)
 
-```bash
-# Ejemplo de comandos de instalación
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
-# Comandos adicionales de instalación si es necesario
-```
+
 ## 3. Uso
 A continuacion se muestran ejemplos de usos basicos de clipper 
 
@@ -115,7 +110,7 @@ PROCEDURE Main
 ```
 
 ## 4. Estructura
-
+Un ejemplo de como se puede organizar un proyecto en Clipper 
 ### /src
 - **main.prg:** Archivo principal que contiene la lógica principal del programa.
 - **utilidades.prg:** Módulo que contiene funciones y procedimientos de utilidad utilizados en todo el proyecto.
